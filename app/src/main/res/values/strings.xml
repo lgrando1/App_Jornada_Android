@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto1</string>
+    <string name="hello_word">Hello Word!</string>
+    <string name="abrir_nova_tela">Abrir Nova tela</string>
+    <string name="enviar">Enviar</string>
+    <string name="digite_seu_nome">Digite Seu Nome</string>
+</resources>
